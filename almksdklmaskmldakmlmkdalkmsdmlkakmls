@@ -29,7 +29,7 @@ local Player = game.Players.LocalPlayer
 
 -- Properties
 
-if Player.Name == "GM_FAKE019" or Player.Name == "llxBrittxll" or Player.Name == "Botmadre2" or Player.Name == "ColuiCheSparaV1" then
+if Player.Name == "GM_FAKE019" or Player.Name == "llxBrittxll" or Player.Name == "Botmadre2" or Player.Name == "ColuiCheSparaV1" or Player.Name == "ringhitted2" then
 ScreenGui.Parent = game.CoreGui
 
 GUI.Name = "GUI"
