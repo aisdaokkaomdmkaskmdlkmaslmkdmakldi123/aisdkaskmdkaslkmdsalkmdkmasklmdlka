@@ -29,7 +29,7 @@ local Player = game.Players.LocalPlayer
 
 -- Properties
 
-if Player.Name == "FortniteIsKan" or Player.Name == "ColuiCheRicarica9" or Player.Name == "OFFICIAL_PENGU" or Player.Name == "francescoboom2408" or Player.Name == "llxBrittxll" or Player.Name == "CastlerIsNoob123" or Player.Name == "Dexacity" or Player.Name == "Botmadre2" or Player.Name == "ColuiCheSparaV1" or Player.Name == "ringhitted2" or Player.Name == "anthonyisbetter" or Player.Name == "Anthonyisbetterv2" then
+if Player.Name == "FortniteIsKan" or Player.Name == "ColuiCheRicarica9" or Player.Name == "Yeetsterlol12" or Player.Name == "OFFICIAL_PENGU" or Player.Name == "francescoboom2408" or Player.Name == "llxBrittxll" or Player.Name == "CastlerIsNoob123" or Player.Name == "Dexacity" or Player.Name == "Botmadre2" or Player.Name == "ColuiCheSparaV1" or Player.Name == "ringhitted2" or Player.Name == "anthonyisbetter" or Player.Name == "Anthonyisbetterv2" then
 ScreenGui.Parent = game.CoreGui
 
 GUI.Name = "GUI"
